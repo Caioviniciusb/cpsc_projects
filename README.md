@@ -1,2 +1,2 @@
 # cpsc_projects
-This repository will contain projects from my under graduation courses at UofC.
+This repository will contain coding projects I'm developing during my undergraduate at UofC.
